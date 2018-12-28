@@ -6,7 +6,7 @@ management:
   security:
     enabled: false
 
-logging: # <----New sections below
-  level:
-    com:
-      item: DEBUG
+#logging: # <----New sections below
+ # level:
+   # com:
+     # item: DEBUG
