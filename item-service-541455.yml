@@ -6,5 +6,5 @@ management:
   security:
     enabled: false
 
-#logging: # <----New sections below
-#  level: DEBUG
+logging: # <----New sections below
+  level: DEBUG
