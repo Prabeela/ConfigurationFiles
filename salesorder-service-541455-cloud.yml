@@ -10,3 +10,6 @@ logging: # <----New sections below
   level: 
     com:
       salesorder: DEBUG
+     
+itemServiceAppName: ITEM-SERVICE-541455
+customerServiceAppName: CUSTOMER-SERVICE-541455
