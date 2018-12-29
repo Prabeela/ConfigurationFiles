@@ -7,4 +7,6 @@ management:
     enabled: false
 
 logging: # <----New sections below
-  level: DEBUG
+  level: 
+    io:
+      customer: DEBUG
