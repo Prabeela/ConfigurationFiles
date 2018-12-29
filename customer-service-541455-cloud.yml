@@ -8,5 +8,5 @@ management:
 
 logging: # <----New sections below
   level: 
-    io:
+    com:
       customer: DEBUG
